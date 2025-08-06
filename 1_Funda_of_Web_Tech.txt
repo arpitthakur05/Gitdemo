@@ -1,0 +1,91 @@
+MEAN Stack
+    >>M: MongoDB (Database)
+    >>E: ExpressJs (Backend)
+    >>A: Angular (Frontend)
+    >>N: Nodejs (Backend)
+
+
+Three Pillars
+    >> HTML  (Hyper Text Markup Language)
+    >> CSS   (Cascading Style Sheets)
+    >> JS    (Java Script)
+
+MEAN, MERN, Java Full Stack
+
+Web Dev
+    >> Building/Developers Team
+    >> Testing Team (Manual Testers/Automated Testers)
+    >> Hosting Team (DevOps Team)
+    >> Maintenence Team/Support Team
+
+SDLC (Software Development Life Cycle):
+    >> WaterFall Model
+    >> Agile Model
+    >> Spiral Model
+    >> Itrative Model
+    >> Incremantel Model
+    >> V Shaped Model
+    >> RAD (Rapid Application Deplopment) Model 
+
+URL (Uniform Resource Locator)
+    https://www.instagram.com/
+    https://education.rohanAcademy.edu/FullStack
+
+    https:Protocol
+    rohanAcademy:Server/DomainName
+    education:Sub-DomainName
+    .edu: TLD (Top Level Domain)
+    Fullstack: Path/Location
+
+Protocol:
+    >> Set of rules/instruction
+         http   :  Hyper Text Transfer Protocol
+         https  :  Hyper Text Transfer Protocol Secure
+         tcp    :  Transmission Control Protocol
+         udp    :  User Dataram Protocol
+         smtp   :  Simple Mail Transfer Protocol
+         ftp    :  File Transfer Protocol
+         ip     :  Internet Protocol (ipv4 & ipv6)
+
+
+               >> Client/Web Page -----------(uName & uPwd)----------> Instagram Server
+               >> SSL  (Secure Socket Layer ) Certification
+
+
+
+
+ Sub-Domain Name:
+      >> gMeet
+      >> gMaps
+      >> gDrive
+      >> gMail
+      >> gPhotos
+      >> gFiles
+      >> gChrome
+      >> gCalender
+      >> gPay
+
+
+      >> Amazon shopping
+      >> AWS
+
+
+TLD (Top Level Domain) :
+    Amazon.in  (India)
+    Amazon.com (commercial)
+    Amazon.edu (education)
+    Amazon.org (organisation)
+    Amazon.uk  (United Kingdom)
+
+
+
+Offline Editors
+     >> Notepad
+     >> Notepad++
+     >> sublime
+     >> Open Brackets
+     >> VS Code
+
+Online Editors
+    >> CodeSpace
+    >> CodeSandbox
